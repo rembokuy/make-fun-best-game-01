@@ -1,5 +1,9 @@
 # Lumenkeeper — Hold the Last Light
 
+[![make.fun · best-game-01](https://make.fun/badge/best-game-01.svg)](https://make.fun/bounty/best-game-01?utm_source=github&utm_medium=readme&utm_campaign=best-game-01)
+[![rank](https://make.fun/badge/best-game-01/rembokuy/make-fun-best-game-01/rank.svg)](https://make.fun/bounty/best-game-01/leaderboard?utm_source=github&utm_medium=readme&utm_campaign=best-game-01)
+[![reward](https://make.fun/badge/best-game-01/rembokuy/make-fun-best-game-01/reward.svg)](https://make.fun/bounty/best-game-01?utm_source=github&utm_medium=readme&utm_campaign=best-game-01)
+
 A 2D canvas arena-survival game. Night falls on a reef; ember wisps, tide
 skitters and ink spitters crawl out of the dark water to snuff the
 lighthouse flame. You are the keeper. Survive 10 waves — and the
